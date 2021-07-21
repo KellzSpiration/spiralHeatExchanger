@@ -1,0 +1,9 @@
+c:\users\kellzspiration\documents\visual studio 2015\Projects\SpiralHeatExchanger\SpiralHeatExchanger\bin\Debug\SpiralHeatExchanger.exe.config
+c:\users\kellzspiration\documents\visual studio 2015\Projects\SpiralHeatExchanger\SpiralHeatExchanger\obj\Debug\SpiralHeatExchanger.Properties.Resources.resources
+c:\users\kellzspiration\documents\visual studio 2015\Projects\SpiralHeatExchanger\SpiralHeatExchanger\obj\Debug\SpiralHeatExchanger.Simulation_Page.resources
+c:\users\kellzspiration\documents\visual studio 2015\Projects\SpiralHeatExchanger\SpiralHeatExchanger\obj\Debug\SpiralHeatExchanger.csproj.GenerateResource.Cache
+c:\users\kellzspiration\documents\visual studio 2015\Projects\SpiralHeatExchanger\SpiralHeatExchanger\bin\Debug\SpiralHeatExchanger.exe
+c:\users\kellzspiration\documents\visual studio 2015\Projects\SpiralHeatExchanger\SpiralHeatExchanger\bin\Debug\SpiralHeatExchanger.pdb
+c:\users\kellzspiration\documents\visual studio 2015\Projects\SpiralHeatExchanger\SpiralHeatExchanger\obj\Debug\SpiralHeatExchanger.exe
+c:\users\kellzspiration\documents\visual studio 2015\Projects\SpiralHeatExchanger\SpiralHeatExchanger\obj\Debug\SpiralHeatExchanger.pdb
+C:\Users\KellzSpiration\Documents\Visual Studio 2015\Projects\SpiralHeatExchanger\SpiralHeatExchanger\obj\Debug\SpiralHeatExchanger.csprojResolveAssemblyReference.cache
